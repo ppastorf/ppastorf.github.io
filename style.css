@@ -157,6 +157,11 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.subDetails2 {
+	font-size: 0.8em;
+	margin-bottom: 5px;
+}
+
 .keySkills {
 	list-style-type: none;
 	-moz-column-count:3;
